@@ -1,0 +1,29 @@
+:root{
+    --primary: #dba347;
+}
+body{
+    font-family: 'poppins', sans-serif;
+    margin: auto;
+}
+
+.navbar{
+    min-height: 90px;
+}
+
+.btn-primary{
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+
+#Separador{
+    background-color: var(--primary);
+    height: 30px;
+    margin-bottom: 30px;
+}
+
+#redes{
+    color: var(--primary);
+    font-size: 40px;
+    margin: auto;
+}
+
